@@ -11,10 +11,10 @@ In Order to predict the questions are similar or not we used Following Machine L
 ## Results
                                
 **Models**                         **Accuracy Score**
-Decision Tree-------------------->79.5784% ,
-Random Forest-------------------->79.5784% ,
-Logistic Regression-------------->72.323% ,
-XGBoost-------------------------->79.588% .
+Decision Tree-------------------->80.35% ,
+Random Forest-------------------->80.35% ,
+Logistic Regression-------------->71% ,
+XGBoost-------------------------->79.7% .
 
 
 We Can Coclude that by seeing above results the XG Boost Classifier gives the best results according to Accuracy.
