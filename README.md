@@ -17,4 +17,4 @@ Logistic Regression-------------->71% ,
 XGBoost-------------------------->79.7% .
 
 
-We Can Conclude that by seeing above results the XG Boost Classifier gives the best results according to Accuracy.
+We Can Conclude that by seeing above results the Decision Tree Classifier gives the best results according to Accuracy.
