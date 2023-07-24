@@ -18,11 +18,13 @@ In Order to predict the questions are similar or not we used Following Machine L
 |XGBoost |  79.7%            |
 
                                
-<!-- **Models**                         **Accuracy Score**
+<!-- 
+**Models**                         **Accuracy Score**
 Decision Tree-------------------->80.35% ,
 Random Forest-------------------->80.35% ,
 Logistic Regression-------------->71% ,
-XGBoost-------------------------->79.7% . -->
+XGBoost-------------------------->79.7% . 
+-->
 
 
 We Can Conclude that by seeing above results the Decision Tree Classifier gives the best results according to Accuracy.
