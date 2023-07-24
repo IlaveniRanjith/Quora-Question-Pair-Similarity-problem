@@ -20,10 +20,10 @@ In Order to predict the questions are similar or not we used Following Machine L
                                
 <!-- 
 **Models**                         **Accuracy Score**
-Decision Tree-------------------->80.35% ,
-Random Forest-------------------->80.35% ,
-Logistic Regression-------------->71% ,
-XGBoost-------------------------->79.7% . 
+Decision Tree--------------------80.35% ,
+Random Forest--------------------80.35% ,
+Logistic Regression--------------71% ,
+XGBoost--------------------------79.7% . 
 -->
 
 
