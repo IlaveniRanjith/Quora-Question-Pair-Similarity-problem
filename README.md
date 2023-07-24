@@ -9,6 +9,14 @@ In Order to predict the questions are similar or not we used Following Machine L
   3. Logistic Regression Classifier
   4. Decision tree Classifier
 ## Results
+
+| Models       | Description  |   Accuracy Score |
+| :----------- | :----------: | ---------------: |
+|Decision Tree | Center align | 80.35%           |
+|Random Forest | Center align | 80.35%           |
+|Logistic Regression | Center align | 71%           |
+|XGBoost | Center align | 79.7%            |
+
                                
 **Models**                         **Accuracy Score**
 Decision Tree-------------------->80.35% ,
